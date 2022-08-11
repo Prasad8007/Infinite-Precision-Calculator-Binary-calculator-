@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1644227301 source:c:\users\hp\onedrive\desktop\binary calculator\bc.c
+	<stdio.h>
+	<stdlib.h>
+	"BC.h"
+
+1643816190 source:c:\users\hp\onedrive\desktop\binary calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BC.h"
+
+1644230092 c:\users\hp\onedrive\desktop\binary calculator\bc.h
+
+1643307324 source:c:\users\hp\onedrive\desktop\list_stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1643816190 source:c:\users\hp\onedrive\desktop\c\projects\binary calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BC.h"
+
+1644230092 c:\users\hp\onedrive\desktop\c\projects\binary calculator\bc.h
+
